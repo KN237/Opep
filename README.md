@@ -7,4 +7,4 @@ this is a rideshare app design that I started to write Rbut couldn't finish (I h
 <img align="left"src="opep3.jpg" width="150"/>
 <img align="left"src="opep4.jpg" width="150"/>
 <img align="left" src="opep5.jpg" width="150"/>
-<img src="opep6.jpg" width="100"/>
+<img src="opep6.jpg" width="150"/>
